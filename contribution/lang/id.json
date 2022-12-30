@@ -204,7 +204,7 @@
  	 	 	 	"eng": "Deposit Item"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
- 	 	 	 	"trans": "Masukkan barang ke lemari besimu",
+ 	 	 	 	"trans": "Masukkan barang ke Brangkas mu",
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
@@ -212,7 +212,7 @@
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
- 	 	 	 	"trans": "Ambil barang dari lemari besimu",
+ 	 	 	 	"trans": "Ambil barang dari Brangkas mu",
  	 	 	 	"eng": "Take items out from your vault"
  	 	 	},
  	 	 	"upgradeSlot": {
@@ -226,12 +226,12 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "Tingkatkan jumlah maksimum barang yang dapat Kamu simpan di lemari besi ke ${upgradeToSlot}",
+ 	 	 	 	"trans": "Tingkatkan jumlah maksimum barang yang dapat Kamu simpan di brangkas ke ${upgradeToSlot}",
  	 	 	 	"eng": "Increase the max amount of items you can store in vault to ${upgradeToSlot}"
  	 	 	},
  	 	 	"modal": {
  	 	 	 	"selectDepositItem": {
- 	 	 	 	 	"trans": "Berapa banyak yang ingin Kamu masukkan ke lemari besi?",
+ 	 	 	 	 	"trans": "Berapa banyak yang ingin Kamu masukkan ke Brangkas?",
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
@@ -305,7 +305,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"playerName"
  	 	 	 	],
- 	 	 	 	"trans": "Membalas ${playerName}",
+ 	 	 	 	"trans": "Membalas ke ${playerName}",
  	 	 	 	"eng": "Replying to ${playerName}"
  	 	 	},
  	 	 	"linksNotAllowed": {
@@ -774,7 +774,7 @@
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "Interaksi",
+ 	 	 	 	"trans": "dapat di Interaksi",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"hiddenNpcTip": {
@@ -803,7 +803,7 @@
  	 	 	},
  	 	 	"unlockContainerButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Buka kunci wadah",
+ 	 	 	 	 	"trans": "Buka kunci kontainer",
  	 	 	 	 	"eng": "Unlock Container"
  	 	 	 	}
  	 	 	},
@@ -1573,7 +1573,7 @@
  	 	 	},
  	 	 	"playerPopup": {
  	 	 	 	"viewProfile": {
- 	 	 	 	 	"trans": "Tampilkan profil",
+ 	 	 	 	 	"trans": "Lihat profil",
  	 	 	 	 	"eng": "View Profile"
  	 	 	 	},
  	 	 	 	"assignRank": {
